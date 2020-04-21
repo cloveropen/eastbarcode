@@ -1,0 +1,14 @@
+D:\vs_proj\eastbarcode\bin\Debug\eastbarcode.dll
+D:\vs_proj\eastbarcode\bin\Debug\eastbarcode.pdb
+D:\vs_proj\eastbarcode\bin\Debug\log4net.dll
+D:\vs_proj\eastbarcode\bin\Debug\zxing.dll
+D:\vs_proj\eastbarcode\bin\Debug\zxing.presentation.dll
+D:\vs_proj\eastbarcode\bin\Debug\log4net.xml
+D:\vs_proj\eastbarcode\bin\Debug\zxing.pdb
+D:\vs_proj\eastbarcode\bin\Debug\zxing.xml
+D:\vs_proj\eastbarcode\bin\Debug\zxing.presentation.pdb
+D:\vs_proj\eastbarcode\bin\Debug\zxing.presentation.xml
+D:\vs_proj\eastbarcode\obj\Debug\eastbarcode.csprojAssemblyReference.cache
+D:\vs_proj\eastbarcode\obj\Debug\eastbarcode.csproj.CopyComplete
+D:\vs_proj\eastbarcode\obj\Debug\eastbarcode.dll
+D:\vs_proj\eastbarcode\obj\Debug\eastbarcode.pdb
