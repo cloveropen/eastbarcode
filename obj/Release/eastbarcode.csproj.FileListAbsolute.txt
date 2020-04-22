@@ -8,6 +8,7 @@ D:\vs_proj\eastbarcode\bin\Release\zxing.pdb
 D:\vs_proj\eastbarcode\bin\Release\zxing.xml
 D:\vs_proj\eastbarcode\bin\Release\zxing.presentation.pdb
 D:\vs_proj\eastbarcode\bin\Release\zxing.presentation.xml
+D:\vs_proj\eastbarcode\obj\Release\eastbarcode.csprojAssemblyReference.cache
 D:\vs_proj\eastbarcode\obj\Release\eastbarcode.csproj.CopyComplete
 D:\vs_proj\eastbarcode\obj\Release\eastbarcode.dll
 D:\vs_proj\eastbarcode\obj\Release\eastbarcode.pdb
